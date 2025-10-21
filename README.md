@@ -27,7 +27,7 @@ Installation
 
 Clone the repository and install the required dependencies:
 
-git clone https://github.com/yourusername/epl-match-predictor.git
+git clone (https://github.com/alejandrorosales07/Premier-League-Machine-Learning)
 cd epl-match-predictor
 pip install pandas requests beautifulsoup4 scikit-learn
 
